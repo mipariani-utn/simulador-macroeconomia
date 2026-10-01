@@ -6,6 +6,7 @@ from simulador_macroeconomia import Politica, simular
 
 st.set_page_config(page_title="Laboratorio Macroeconómico Argentino - UTN.BA", layout="wide")
 st.title("Laboratorio Macroeconómico Argentino - UTN.BA")
+st.markdown("**Cátedra: Política Económica**")
 st.caption("Simulador exclusivamente para uso didáctico. Parámetros ilustrativos y con fines educativos; no es un pronóstico.")
 
 with st.sidebar:
